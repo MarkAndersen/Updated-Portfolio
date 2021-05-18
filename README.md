@@ -13,7 +13,13 @@ Updated portfolio utilizing CSS libraries and including more recent work. This w
 
 ### Mobile ready version with collapsed navbar and realigned jumbotron
 ![Screenshot](./assets/images/4.png)
+
 ![Screenshot](./assets/images/5.png)
 
 
 ## Links
+https://markandersen.github.io/Updated-Portfolio/
+<br>
+https://github.com/MarkAndersen
+<br>
+https://www.linkedin.com/in/mark-andersen-042380105/
